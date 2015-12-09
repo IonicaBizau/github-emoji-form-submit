@@ -43,6 +43,18 @@
           ]
         ]
       },
+      { "h2": "Before `:smile_c`" },
+      {
+          "img": {
+              "source": "http://i.imgur.com/8Nvdo2d.png"
+          }
+      },
+      { "h2": "After `:smile_cat:`" },
+      {
+          "img": {
+              "source": "http://i.imgur.com/r5khZ3r.png"
+          }
+      },
       {
         "h2": "Installation"
       },

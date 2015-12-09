@@ -15,6 +15,12 @@ This userscript will take care of my emoji to be
 submitted as well when submitting the form while
 the emoji suggestion list is opened. :tada: :fireworks:
 
+## Before `:smile_c`
+![](http://i.imgur.com/8Nvdo2d.png)
+
+## After `:smile_cat:`
+![](http://i.imgur.com/r5khZ3r.png)
+
 ## Installation
 
 Use [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) (in Chrome/Chromium)
