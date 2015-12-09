@@ -1,6 +1,6 @@
 # github-emoji-form-submit [![Support this project][donate-now]][paypal-donations]
 
-Autocomplete selected Emoji when submitting forms on GitHub.
+Autocomplete selected Emoji when submitting forms on GitHub.com.
 
 When leaving comments, opening issues etc. you can use
 `:emoji:`. That's pretty neat. But often, it happened
