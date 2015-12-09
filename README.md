@@ -24,9 +24,7 @@ the emoji suggestion list is opened. :tada: :fireworks:
 ## Installation
 
 Use [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) (in Chrome/Chromium)
-
 or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/), if you are using Firefox and then add the userscript
-
 you can find in [`lib/index.js`](/lib/index.js).
 
 ## How to contribute
