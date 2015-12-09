@@ -43,26 +43,32 @@
           ]
         ]
       },
-      { "h2": "Before `:smile_c`" },
       {
-          "img": {
-              "source": "http://i.imgur.com/8Nvdo2d.png"
-          }
+        "h2": "Before `:smile_c`"
       },
-      { "h2": "After `:smile_cat:`" },
       {
-          "img": {
-              "source": "http://i.imgur.com/r5khZ3r.png"
-          }
+        "img": {
+          "source": "http://i.imgur.com/8Nvdo2d.png"
+        }
+      },
+      {
+        "h2": "After `:smile_cat:`"
+      },
+      {
+        "img": {
+          "source": "http://i.imgur.com/r5khZ3r.png"
+        }
       },
       {
         "h2": "Installation"
       },
       {
         "p": [
-          "Use [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) (in Chrome/Chromium)",
-          "or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/), if you are using Firefox and then add the userscript",
-          "you can find in [`lib/index.js`](/lib/index.js)."
+          [
+            "Use [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) (in Chrome/Chromium)",
+            "or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/), if you are using Firefox and then add the userscript",
+            "you can find in [`lib/index.js`](/lib/index.js)."
+          ]
         ]
       }
     ]
