@@ -1,6 +1,8 @@
+
 # github-emoji-form-submit [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/github-emoji-form-submit.svg)](https://www.npmjs.com/package/github-emoji-form-submit) [![Downloads](https://img.shields.io/npm/dt/github-emoji-form-submit.svg)](https://www.npmjs.com/package/github-emoji-form-submit) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Autocomplete selected Emoji when submitting forms on GitHub.com.
+
 
 When leaving comments, opening issues etc. you can use
 `:emoji:`. That's pretty neat. But often, it happened
@@ -27,13 +29,12 @@ Use [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgff
 or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/), if you are using Firefox and then add the userscript
 you can find in [`lib/index.js`](/lib/index.js).
 
-## How to contribute
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
-If you are using this library in one of your projects, add it in this list. :sparkles:
 
-## License
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
