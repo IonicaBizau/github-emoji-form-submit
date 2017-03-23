@@ -7,25 +7,16 @@
 
 
 When leaving comments, opening issues etc. you can use
-
 `:emoji:`. That's pretty neat. But often, it happened
-
 to me to write the comment and add an emoji at the end.
-
 So, I was writing my comment and adding the emoji.
-
 But since I was seeing the selected emoji, I pressing
-
 <kbd>Ctrl</kbd> + <kbd>Enter</kbd> to submit my comment
-
 and obviously the result was looking like: *bla, bla,
-
 bla :emoji* (notice the missing closing colon).
 
 This userscript will take care of my emoji to be
-
 submitted as well when submitting the form while
-
 the emoji suggestion list is opened. :tada: :fireworks:
 
 ## Before `:smile_c`
@@ -37,9 +28,7 @@ the emoji suggestion list is opened. :tada: :fireworks:
 ## Installation
 
 Use [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) (in Chrome/Chromium)
-
 or [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/), if you are using Firefox and then add the userscript
-
 you can find in [`lib/index.js`](/lib/index.js).
 
 
