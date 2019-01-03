@@ -1,6 +1,6 @@
 {
   "name": "github-emoji-form-submit",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Autocomplete selected Emoji when submitting forms on GitHub.com.",
   "main": "lib/index.js",
   "scripts": {
